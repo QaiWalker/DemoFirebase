@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1034737600120",
+    "firebase_url": "https://fir-firebase-7b83d.firebaseio.com",
+    "project_id": "fir-firebase-7b83d",
+    "storage_bucket": "fir-firebase-7b83d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034737600120:android:6efc869c00d98d09",
+        "android_client_info": {
+          "package_name": "sg.edu.rp.q.demofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034737600120-d7jrf4h4re46vsruttqtm08cprf53j4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2CPu29-Y5nwYb9SZnor63LeRL7JcYXuU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
